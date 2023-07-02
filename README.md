@@ -1,4 +1,4 @@
-### Hello 👋, My name is Bolu, I am a Data Science and Clinical Informatics Professional.
+### Hello 👋, My name is Bolu. I am a Data Science and Clinical Informatics Professional.
 
 ### Skillsets
 *	**Programming, Scripting, and Markup languages**: R, SQL, Python, Linux, XML, JSON, HTML, YAML, LaTeX
