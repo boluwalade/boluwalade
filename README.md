@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello 👋, My name is Bolu, I am a Data Science and Clinical Informatics Professional.
 
-<!--
-**boluwalade/boluwalade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skillsets
+*	**Programming, Scripting, and Markup languages**: R, SQL, Python, Linux, XML, JSON, HTML, YAML, LaTeX
+* **Databases**: Oracle, Postgres, Microsoft SQL Server, Big Query
+*	**Data Engineering**: Airflow, DBT
+*	**Machine Learning:** Classification and Regression Models, Deep Learning Algorithms
+*	**Data Analytics:** Data Mining, Data visualization, Data Manipulation, Statistical Inference, Dashboard Development
+*	**Healthcare Standards/Terminologies:** HL7 v2, SNOMED CT, LOINC, FHIR, ICD/CPT
+*	**Software/Tools:** RMarkdown, RStudio, Jupyter, VS Code, REDCap, SSMS, Netezza, Qlik Sense, Tableau, PowerBI
+*	**Version control/Documentation:** GitHub, GitLab, Code Review
+*	**Research:** Qualitative and Quantitative research methods, Mixed Methods, Scientific Writing
 
-Here are some ideas to get you started:
+### Publications
+My list of research publications can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=ncwhL9cAAAAJ)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects and Interests
+- I’m looking to collaborate on ML in Healthcare projects.
+- I am interested in learning more about FHIR and Healthcare Interoperability Standards.
+- I am working on Quality Improvement in Healthcare projects.
