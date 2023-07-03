@@ -2,7 +2,7 @@
 
 ### Skillsets
 *	**Programming, Scripting, and Markup languages**: R, SQL, Python, Linux, XML, JSON, HTML, YAML, LaTeX
-* **Databases**: Oracle, Postgres, Microsoft SQL Server, Big Query
+* **Databases**: Oracle, PostgreSQL, Microsoft SQL Server, Big Query
 *	**Data Engineering**: Airflow, DBT
 *	**Machine Learning:** Classification and Regression Models, Deep Learning Algorithms
 *	**Data Analytics:** Data Mining, Data visualization, Data Manipulation, Statistical Inference, Dashboard Development
