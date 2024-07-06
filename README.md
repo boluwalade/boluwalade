@@ -14,6 +14,5 @@
 My list of research publications can be found on [Google Scholar](https://scholar.google.com/citations?hl=en&user=ncwhL9cAAAAJ)
 
 ### Projects and Interests
-- I’m looking to collaborate on ML in Healthcare projects.
-- I am interested in FHIR and Healthcare Interoperability Standards.
-- I am working on Quality Improvement in Healthcare projects.
+- FHIR and Healthcare Interoperability Standards.
+- Quality Improvement in Healthcare.
