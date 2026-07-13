@@ -4,6 +4,8 @@
 *	**Programming languages**: R, SQL, Python, JS
 * **Databases**: Oracle, PostgreSQL, Microsoft SQL Server, Big Query
 *	**Data Engineering**: Airflow, DBT
+*	**System Design**: Data Flow Mapping, System Architecture, Activity Diagram, Use case diagram
+*	**Business Analysis**: Business Rules, Functional/Non Functional Req, 
 *	**Machine Learning:** Classification and Regression Models, Deep Learning Algorithms
 *	**Data Analytics:** Data Mining, Data visualization, Data Manipulation, Statistical Inference, Dashboard Development
 *	**Healthcare Standards/Terminologies:** HL7 v2, SNOMED CT, LOINC, FHIR, ICD/CPT
@@ -15,4 +17,6 @@ My list of research publications can be found on [Google Scholar](https://schola
 
 ### Projects and Interests
 - FHIR and Healthcare Interoperability Standards.
+- Healthcare System Design
 - Quality Improvement in Healthcare.
+  
